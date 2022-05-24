@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KishoreVB70
-- 👀 I’m interested in Block chain Technology
-- 🌱 I’m currently learning Java Script and Solidity
+- 👀 I’m interested in Blockchain, Decentralization
+- 🌱 I’m currently learning Full stack Ethereum Development 
 - 💞️ I’m looking to collaborate on Smart Contract development
 - 📫 How to reach me - kishore07kzr@gmail.com
 
