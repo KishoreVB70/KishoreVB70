@@ -1,3 +1,20 @@
+### <p align='center'>Languages</p>
+<div align='center'>
+ 
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript) ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=Solidity)  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java) ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+</div>
+
+### <p align='center'>Frameworks and libraries</p>
+<div align='center'>
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Next] ![Tailwind] ![NodeJS](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=nodejs) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow) ![Scikit-learn](https://img.shields.io/badge/-scikit_learn-white?style=flat-square&logo=scikitlearn)
+
+</div>
+
+<hr>
+
+
 #
 <!--
 <details>
