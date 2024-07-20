@@ -1,7 +1,7 @@
 ### <p align='center'>Languages</p>
 <div align='center'>
  
-![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript) ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=Solidity)  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java) ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?&logo=typescript) ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=Solidity)  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java) ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 </div>
 
@@ -23,7 +23,7 @@
 -->
 ### 📊 Stats
 
-![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorevb70&show_icons=true&theme=gruvbox)
+![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorevb70&show_icons=true&theme=gruvbox&hide=issues,contribs)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=kishorevb70&theme=gruvbox&border_radius=4.5) -->
 
