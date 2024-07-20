@@ -1,4 +1,4 @@
-### <p align='center'>Reach me</p>
+### <p align='center'>Reach me📩</p>
 <div align='center'>
 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/kishorevb07) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kishore-vb)
@@ -14,7 +14,7 @@
 ### <p align='center'>Frameworks and libraries</p>
 <div align='center'>
 
-![React](https://img.shields.io/badge/-React-black?&logo=react) ![NextJS](https://img.shields.io/badge/-NextJS-black?&logo=nextdotjs) ![NodeJS](https://img.shields.io/badge/-NodeJs-black?&logo=nodedotjs) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?&logo=Tensorflow) ![Scikit-learn](https://img.shields.io/badge/-scikit_learn-white?&logo=scikitlearn)
+![React](https://img.shields.io/badge/-React-58C4DC?&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38BDF8?&logo=tailwindcss&logoColor=white) ![NextJS](https://img.shields.io/badge/-NextJS-white?&logo=nextdotjs&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-764ABC?&logo=redux) ![NodeJS](https://img.shields.io/badge/-NodeJs-3E9638?&logo=nodedotjs&logoColor=white) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?&logo=Tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?&logo=scikitlearn&logoColor=white)
 
 </div>
 
