@@ -7,14 +7,14 @@
 ### <p align='center'>Languages</p>
 <div align='center'>
  
-![TypeScript](https://img.shields.io/badge/-TypeScript-white?&logo=typescript) ![Solidity](https://img.shields.io/badge/-Solidity-black?&logo=Solidity)  ![Python](https://img.shields.io/badge/-Python-black?&logo=Python) ![Java](https://img.shields.io/badge/-Java-E34A86?&logo=Java) ![Rust](https://img.shields.io/badge/-Rust-black?&logo=Rust)  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=javascript)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3) ![MySQL](https://img.shields.io/badge/-MySQL-black?&logo=mysql)
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?&logo=typescript&style=plastic) ![Solidity](https://img.shields.io/badge/-Solidity-white?&logo=Solidity&logoColor=black&style=plastic)  ![Python](https://img.shields.io/badge/-Python-white?&logo=Python&style=plastic) ![Rust](https://img.shields.io/badge/-Rust-white?&logo=Rust&logoColor=black&style=plastic) ![C](https://img.shields.io/badge/-white?&logo=c&style=plastic) ![Java](https://img.shields.io/badge/-Java-orange?&logo=Java&style=plastic)   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black&style=plastic)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white&style=plastic) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&style=plastic) ![SQL](https://img.shields.io/badge/-SQL-white?&logo=sql&style=plastic)
 
 </div>
 
 ### <p align='center'>Frameworks and libraries</p>
 <div align='center'>
 
-![React](https://img.shields.io/badge/-React-black?&logo=react) ![Next] ![Tailwind] ![NodeJS](https://img.shields.io/badge/-NodeJs-black?&logo=nodejs) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?&logo=Tensorflow) ![Scikit-learn](https://img.shields.io/badge/-scikit_learn-white?&logo=scikitlearn)
+![React](https://img.shields.io/badge/-React-black?&logo=react) ![NextJS](https://img.shields.io/badge/-NextJS-black?&logo=nextdotjs) ![NodeJS](https://img.shields.io/badge/-NodeJs-black?&logo=nodedotjs) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?&logo=Tensorflow) ![Scikit-learn](https://img.shields.io/badge/-scikit_learn-white?&logo=scikitlearn)
 
 </div>
 
